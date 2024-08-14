@@ -1,5 +1,5 @@
 print('Hello world')
-name = "Name: Viktor Emets"
+name = "Name: Viktor"
 print(name)
 age = "Age: 66"
 print(age)
